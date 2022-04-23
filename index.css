@@ -1,0 +1,178 @@
+/*Reset Code*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#headder{
+	width: 100%;
+	height: 200px;
+	background-color: #000000;
+}
+#headderTop{
+	width: 800px;
+	height: 150px;
+	background-color: #1D1D1D;
+	margin: 0 auto; 
+}
+#title{
+	color: white;
+	padding: 30px 0px 10px 10px;
+	margin-bottom: 0;
+	
+}
+#titleLink{
+	text-decoration: none;
+	
+	color: #5E4238;
+}
+#simpleDescription{
+	margin-left: 10px;
+	color: #A65B2C;
+	font-size: 20px;
+	padding: 0;
+}
+#headderDown{
+	width: 800px;
+	height: 50px;
+	background-color: #2D2D2D;
+	margin: 0 auto; 
+	margin: 1px solid #9999;
+}
+/*#maniButton{
+	margin: 0 auto;
+	background-color: #5E4238;
+	color: white;
+	text-decoration: none;
+	height: 30px;
+	width: 80px;
+}*/
+#contentArea{
+	width: 800px;
+	margin: 0 auto; 
+	min-height: 260px;
+	margin-bottom: 0;
+	
+}
+#firstPic{
+	width: 800px;
+	height: 278px;
+	border: 5px solid gray;
+}
+#firstPicImg{
+	white: 400px;
+	height: 278px;
+	float: ;
+	border: 2px solid green;
+	padding: 0;
+	margin: 0;
+}
+#firstPicImg2{
+	white: 400px;
+	height: 278px;
+	float: ;
+	border: 2px solid green;
+	padding: 0;
+	margin: 0;
+}
+#mainContent{
+	width:800px;
+	margin: 0 auto;
+}
+#sideBar{
+	margin: 0 auto;
+	width:240px;
+	height:800px;
+	/*background-color:#F3F3F3*/
+	float:left;
+	padding: 10px;
+}
+#mainBar{
+	margin: 0 auto;
+	width:520px;
+	height:700px;
+	/*background-color:green;*/
+	float:right;
+}
+#widget{
+border: 2px solid black;
+border-radius: 20px;	
+margin: 5px;
+}
+
+#widget h2{
+	font-weight: normal;
+	padding: 10px 5px;
+}
+#widget h3{
+	font-weight: normal;
+	padding: 5px 5px;
+	color:#BB8A7C;
+}
+#widget p{
+	font-weight: normal;
+	padding: 5px;
+	color: #33153d;
+}
+#widget a{
+	font-weight: normal;
+	padding: 10px;
+	color: #5E4238;
+	text-decoration:none;
+}
+#widget h4{
+	font-weight: normal;
+	padding: 5px 5px;
+	color:#5d6066;
+}
+#widget input{
+	padding: 10px;
+}
+#wlcome{
+	text-weight: normal;
+	font-size: 35px;
+	margin: 20px;
+}
+#text{
+	text-align: justify;
+}
+#h22{
+	color: #B48A7C;
+	padding:12px;
+}
+#fotter{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	margin-bottom: 0;
+	display: block;
+	overflow: hidden;
+}
+#coppy{
+	color:white;
+}
+#headderDown ul li{
+	display: inline-block;
+	
+}
+#active{
+	background-color: #B48A7C;
+}
+#headderDown ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 5px;
+	/*background-color: #5E4238;*/
+	
+}
+#headderDown ul{
+	text-align: right;
+	line-height: 50px;
+}
+#headderDown ul li a:hover{
+	background-color: ##025DB0;
+}
+#coppy{
+	text-align: center;
+	line-height: 100px;
+}
